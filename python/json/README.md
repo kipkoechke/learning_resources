@@ -18,10 +18,10 @@ JSON consists of the following data types:
 1. String: a sequence of zero or more Unicode characters, wrapped in ==double quotes==.
 2. Number: an integer, or a floating-point.
 3. Object
-   - 👉 It's an unordered set of name-value pairs, wrapped in curly braces.
-   - 👉 Begins with =={== ~left brace~ and ends with ==}== ~right brace~.
-   - 👉 Each name is followed by a ~colon~ ==:==.
-   - 👉 The name/value pairs are separated by ==,== ~comma~.
+   - 👉 It's an unordered set of name/value pairs, wrapped in curly braces.
+   - 👉 Begins with <mark>{</mark> left brace and ends with <mark>}</mark> right brace.
+   - 👉 Each name is followed by a colon <mark>:</mark>.
+   - 👉 The name/value pairs are separated by <mark>,</mark> comma.
 4. Array: an ordered list of zero or more values, wrapped in square brackets.
 5. Boolean: represents a logical entity and can have two values: true or false.
 6. Null: represents a null value.
